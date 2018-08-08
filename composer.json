@@ -1,0 +1,13 @@
+{
+    "name": "gaojunyang/demo1",
+    "description": "composer test",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "gjy",
+            "email": "340067958@qq.com"
+        }
+    ],
+    "require": {}
+}
